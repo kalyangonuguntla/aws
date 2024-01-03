@@ -1,4 +1,3 @@
 ec2
 vpc
 route table
-dns
